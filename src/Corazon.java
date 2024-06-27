@@ -8,4 +8,8 @@ public class Corazon {
     void oxigenar(){
 
     }
+
+    void morir(){
+        System.out.println("Hola a todos");
+    }
 }
